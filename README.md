@@ -1,3 +1,7 @@
+## node-alipay
+
+* requires node v11.6+
+
 ### 设置
 
 ```javascript
